@@ -1,0 +1,89 @@
+#navigationBar{
+  background-color: #79C753;
+
+}
+
+.nav-link{
+  color: #615550;
+}
+
+.nav-link:hover{
+  color: white;
+}
+
+.nav-item.active{
+  border-left: white 3px solid;
+}
+
+.nav-link.active{
+  color: white;
+}
+
+#imgLogo{
+  width: 2.0em;
+  height: 2.2em;
+}
+
+.carousel-item{
+  height: 450px;
+}
+
+.carousel-image-1{
+  background: url(./img/image-1-croped.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel-image-2{
+  background: url(./img/image-2-croped.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel-image-3{
+  background: url(./img/image-3-croped.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+#video-play{
+  position: relative;
+    min-height: 300px;
+    background: url(./img/image-6-croped.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position:0 100px;
+    background-size: cover;
+    text-align: center;
+    color: #fff;
+}
+
+.video{
+  color: #fff;
+  text-decoration: none;
+  font-size: 4em;
+}
+
+.video:hover{
+  color: #fff;
+}
+
+.img-fluid{
+  margin-top: -50px;
+  margin-left: 15px;
+}
+
+.cardBtn{
+  margin-left: 5em;
+}
+
+.footer-link{
+  text-decoration: none;
+  color: #fff;
+}
+
+.footer-link:hover{
+  color: #F3E0BE;
+  text-decoration: none;
+}
+
